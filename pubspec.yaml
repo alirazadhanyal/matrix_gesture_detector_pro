@@ -1,5 +1,5 @@
 name: matrix_gesture_detector_pro
-description: 检测平移，缩放和旋转手势,并将它们合并到Matrix4对象中
+description: "Detect translation, scaling, and rotation gestures and merge them into Matrix4 objects"
 version: 1.0.0
 homepage: https://github.com/zhaolongs/matrix_gesture_detector_pro.git
 
